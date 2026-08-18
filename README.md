@@ -61,8 +61,6 @@ random idea ──► "can I build this?" ──► breakdown at 2am ──► i
 
 | Project | Tech Stack | The Reality |
 
-| :--- | :--- | :--- |
-
 | 🧠 **SAMVAD** | `Python` `Whisper` `RAG` `Ollama` | **Offline AI Meeting Intelligence** — Because your private audio doesn't belong in someone else's cloud. |
 
 | 📄 **ATS-Pro** | `NLP` `Semantic Search` `LLMs` | **Resume Intelligence** — Tells you *why* your resume sucks instead of giving you an arbitrary 68% score. |
