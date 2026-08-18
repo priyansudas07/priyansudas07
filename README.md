@@ -1,282 +1,82 @@
+# 👋 Hi, I'm **Priya**! 🚀
+
 <div align="center">
+  <a href="https://git.io/typing-readme">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
+</div>
 
-# `PRIYANSU DAS`
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
+</p>
 
-### `CSE` · `AI/ML` · `SOFTWARE`
+---
 
-**I like building things that start with “what if?” and end with a working prototype.**
+## 🚀 About Me
 
-`AI SYSTEMS` · `LOCAL LLMs` · `AGENTIC AI` · `RAG` · `EXPERIMENTS`
+Passionate developer dedicated to writing clean, scalable code and building intuitive web solutions.
 
-<br>
+- 🔭 **Currently Working On**: High-performance web applications & modern developer tooling.
+- 🌱 **Currently Learning**: Machine Learning & Distributed Systems.
+- 👯 **Looking to Collaborate On**: Open source projects & web apps.
+- 💬 **Ask Me About**: JavaScript, TypeScript, React, Python & Web Architecture.
+- 📫 **How to Reach Me**: [LinkedIn Profile](https://linkedin.com) | [Portfolio](https://github.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=priyansudas2005\&style=flat-square\&color=grey)
+---
 
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  SYSTEM STATUS                                              │
-│  ─────────────────────────────────────────────────────────  │
-│                                                             │
-│  USER       : PRIYANSU                                     │
-│  MODE       : BUILDING                                     │
-│  INTERESTS  : AI / ML / SOFTWARE                            │
-│  CURRENTLY  : EXPLORING AGENTS + LOCAL AI                  │
-│                                                             │
-│  STATUS     : ● ONLINE                                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+## ⚡ Quick Dev Joke
 
-## `whoami`
-
-I'm a CSE undergrad who likes turning random ideas into things that actually run.
-
-Most of my rabbit holes currently lead somewhere around **AI, machine learning, local LLMs, agentic systems, and developer tools**.
-
-I don't always know where an experiment is going when I start it.
-
-That's usually the fun part.
-
-```text
-IDEA
- ↓
-"can I build this?"
- ↓
-PROTOTYPE
- ↓
-something breaks
- ↓
-debugging at 2 AM
- ↓
-it works
- ↓
-ship it
-```
+![Jokes Card](https://readme-jokes-five.vercel.app/api?theme=dracula)
 
 ---
 
-## `things_in_the_lab`
-
-### 🧠 SAMVAD
-
-**Offline AI Meeting Intelligence**
-
-> What if your meeting assistant didn't need to send your meeting anywhere?
-
-SAMVAD turns recorded conversations into something you can actually work with:
-
-```text
-┌─────────┐
-│  AUDIO  │
-└────┬────┘
-     │
-     ▼
-┌─────────────┐
-│ FASTER      │
-│ WHISPER     │
-└────┬────────┘
-     │
-     ▼
-┌─────────────┐
-│ TRANSCRIPT  │
-└────┬────────┘
-     │
-     ▼
-┌─────────────┐
-│     RAG     │
-└────┬────────┘
-     │
-     ▼
-┌─────────────┐
-│    Q&A      │
-└─────────────┘
-```
-
-**`Audio → STT → Transcript → Retrieval → Q&A → Meeting Intelligence`**
-
-Built around the idea of keeping sensitive meeting data **local and private**.
-
-`Python` `Faster-Whisper` `RAG` `SQLite` `Ollama` `Transformers`
-
----
-
-### 📄 ATS-Pro
-
-**Resume Intelligence, without the “just add more keywords” nonsense.**
-
-The idea:
-
-```text
-RESUME + JOB DESCRIPTION
-          │
-          ▼
-     ┌───────────┐
-     │  PARSING  │
-     └─────┬─────┘
-           ▼
-   SEMANTIC MATCHING
-           │
-     ┌─────┴─────┐
-     ▼           ▼
- SKILLS       EXPERIENCE
-     │           │
-     └─────┬─────┘
-           ▼
-       ATS SCORE
-           │
-           ▼
-     REAL FEEDBACK
-```
-
-Not just *“your score is 72%.”*
-
-The goal is figuring out **why** the resume matches—or doesn't—and what can actually be improved.
-
-`NLP` `Semantic Search` `LLMs` `Resume Parsing` `ATS`
-
----
-
-## `the_stack`
-
-I don't collect technologies just to make the list longer.
-
-If it helps build the thing, I'm interested.
-
-### Languages
-
-`Python` `Java` `SQL` `JavaScript` `TypeScript`
-
-### AI / ML
-
-`Machine Learning` `NLP` `RAG` `Embeddings` `LLMs` `Agentic AI`
-
-### Development
-
-`React` `Node.js` `SQLite` `MySQL`
-
-### AI Playground
-
-`Ollama` `Transformers` `Faster-Whisper`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `Anaconda`
-
----
-
-## `rabbit_holes`
-
-This is where most of my current curiosity is going.
-
-```text
-                         ┌──────────────┐
-                         │     LLMs     │
-                         └──────┬───────┘
-                                │
-                ┌───────────────┼───────────────┐
-                │               │               │
-                ▼               ▼               ▼
-              RAG            AGENTS         LOCAL AI
-                │               │               │
-                ▼               ▼               ▼
-           Retrieval         Tools          Ollama
-           Embeddings        Planning        Local LLMs
-           Reranking         Workflows       Privacy
-                │               │               │
-                └───────────────┼───────────────┘
-                                │
-                                ▼
-                       useful software
-```
-
-Currently poking around:
-
-* `addyosmani-agent-skills`
-* `agent-reach`
-* `agentic-awesome-skills`
-* Claude / Anthropic tooling
-* AI agent architectures
-* Local LLM workflows
-* RAG systems
-* AI-assisted development
-
-Some experiments work.
-
-Some absolutely do not.
-
-Both are useful.
-
----
-
-## `projects > buzzwords`
-
-I'd rather have **three projects that taught me something** than twenty repositories with impressive-looking README badges.
-
-Some projects start as experiments.
-
-Some turn into actual products.
-
-And some begin with:
-
-> **“I wonder if I can actually make this work.”**
-
-Those are usually the interesting ones.
-
----
-
-## `github.exe`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=priyansudas2005&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansudas2005&layout=compact&hide_border=true&theme=transparent" height="170"/>
-
-</div>
-
----
-
-## `currently_loading...`
-
-```text
-Agentic AI       ████████████████░░░░
-RAG Systems      ███████████████░░░░░
-AI Engineering   ██████████████░░░░░░
-System Design    █████████████░░░░░░░
-React            ████████████░░░░░░░░
-```
-
-*The progress bars are not scientifically accurate.*
-
-*Please don't open an issue.*
-
----
-
-## `if_you're_here`
-
-You probably found me through a repository.
-
-Have a look around.
-
-If something is useful → **steal the idea.**
-
-If something is broken → **tell me.**
-
-If you want to build something ridiculous → **even better.**
-
-<div align="center">
-
-### `LET'S BUILD SOMETHING INTERESTING.`
-
-[GitHub](https://github.com/priyansudas2005) · [LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
-
-<br>
-
-`⌘ BUILD` · `EXPERIMENT` · `BREAK` · `LEARN` · `REPEAT`
-
-</div>
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
