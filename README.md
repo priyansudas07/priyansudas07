@@ -30,23 +30,6 @@
 
 
 
----
-
-
-
-```text
-
-┌─────────────────────────────────────────────────────────────┐
-
-│  USER : PRIYANSU | WILLING TO TEST UNSTABLE AI MODELS AT 3AM │
-
-│  MODE : BUILDING | STATUS : ● ONLINE (PROBABLY DEBUGGING)   │
-
-└─────────────────────────────────────────────────────────────┘
-
-```
-
-
 
 Hey! 👋 I’m a CSE undergrad who gets unreasonably excited about making AI do weird, useful things locally. 
 
@@ -131,30 +114,6 @@ random idea ──► "can I build this?" ──► breakdown at 2am ──► i
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 </p>
-
-
-
----
-
-
-
-## 📊 `github.exe`
-
-
-
-<div align="center">
-
-
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=priyansudas07&layout=compact&theme=dark" height="165"/>
-
-
-
-</div>
-
-
-
----
 
 
 
