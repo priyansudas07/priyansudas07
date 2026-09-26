@@ -2,7 +2,7 @@
 
 # `PRIYANSU DAS`
 
-### `CSE` · `AI/ML` · `AGENTIC AI`
+### `CSE` · `AI/ML` 
 
 **I like building things that start with “what if?” and end with a working prototype.**
 
