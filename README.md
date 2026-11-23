@@ -23,20 +23,6 @@ I spend way too much time poking around **local LLMs, autonomous agents, RAG, an
 ```text
 random idea ──► "can I build this?" ──► breakdown at 2am ──► it actually works ──► ship it 🚀
 ```
-
----
-
-## 🧪 `lab_highlights`
-
-> *Things I built because I got tired of existing tools.*
-
-| Project | Tech Stack | The Reality |
-| :--- | :--- | :--- |
-| 🧠 **SAMVAD** | `Python` `Whisper` `RAG` `Ollama` | **Offline AI Meeting Intelligence** — Because your private audio doesn't belong in someone else's cloud. |
-| 📄 **ATS-Pro** | `NLP` `Semantic Search` `LLMs` | **Resume Intelligence** — Tells you *why* your resume sucks instead of giving you an arbitrary 68% score. |
-
----
-
 ## 🛠️ `weapons_of_choice`
 
 *(Only stuff I actually use, no fluff lists)*
